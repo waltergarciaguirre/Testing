@@ -3,7 +3,7 @@
 ## Vision Statement
 CS Jeopardy is the hottest learning tool on the market so that institutes of higher education can provide a more interactive learning experience that that bridges the gap between students and faculty.
 
-(https://github.com/cs3398-borgs-bros/Temporary/blob/master/download.png)
+![Logo](https://github.com/cs3398-borgs-bros/Temporary/blob/master/download.png)
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 
