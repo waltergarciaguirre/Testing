@@ -5,7 +5,8 @@ CS Jeopardy is the hottest learning tool on the market so that institutes of hig
 
 ![Logo](https://github.com/cs3398-borgs-bros/Temporary/blob/master/download.png)
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+To anyone looking to enhance their in class experience and keep students engaged we have the answers for you! We as CS Students understand that it can sometimes be hard for the professor to get their students attention and focus on the lecture material.
+This is were Computer Science Jeopardy comes into play! With this tool you will be able to put students head to head solving problems over what was just lectured or for fun ensuring they are paying attention.
 
 ## Getting Started
 
